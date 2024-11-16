@@ -4,3 +4,4 @@ This study, also known as tw-options-and-futures-analysis-and-rnn-pricing or Opt
 - Working directory: [working](Option_pricing/working).
 - Paper PDF: [資料科學期末成果報告 臺灣發行量加權股價指數、其期貨及選擇權與其他經濟與利率數據的深度學習定價模型之研究.pdf](資料科學期末成果報告%20臺灣發行量加權股價指數、其期貨及選擇權與其他經濟與利率數據的深度學習定價模型之研究.pdf).
 - Main Code PDF: [Option_pricing.pdf](Option_pricing.pdf).
+- RNN Code Main Part (see the whole implementation in the [working](Option_pricing/working) directory): [RNN.hpp](Option_pricing/working/RNN.hpp).
